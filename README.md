@@ -1,4 +1,5 @@
 # **LLM Text Splitter**
+![PyPI](https://img.shields.io/pypi/v/llm-text-splitter)
 
 A lightweight, rule-based text splitter designed for preparing long documents for Large Language Model (LLM) context windows. It intelligently breaks down text into manageable chunks, prioritizing meaningful structural breaks (like paragraphs or lines) before resorting to arbitrary character limits.
 
